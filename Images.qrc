@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/Icons">
+        <file alias="ButtonDeBase">button1.png</file>
+        <file>sce.png</file>
+        <file>Zelgunn.png</file>
+        <file>BoldIcon.png</file>
+        <file>ItalicIcon.png</file>
+        <file>UnderlineIcon.png</file>
+        <file>Plan.png</file>
+    </qresource>
+</RCC>
